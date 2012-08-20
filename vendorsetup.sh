@@ -1,6 +1,4 @@
-add_lunch_combo cm_grouper-userdebug
-add_lunch_combo cm_p1-userdebug
-add_lunch_combo cm_p1l-userdebug
-add_lunch_combo cm_p1n-userdebug
-#add_lunch_combo cm_p1c-userdebug
-
+for combo in $(cat vendor/cm/jenkins-build-targets)
+do
+    add_lunch_combo $combo
+done
