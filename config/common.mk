@@ -149,6 +149,7 @@ PRODUCT_PACKAGES += \
     #Trebuchet \
 
 PRODUCT_PACKAGES += \
+    Trebuchet \
     Launcher3 \
     DSPManager \
     libcyanogen-dsp \
