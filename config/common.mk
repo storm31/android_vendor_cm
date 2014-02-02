@@ -135,7 +135,6 @@ PRODUCT_PACKAGES += \
 
 # Custom CM packages
 PRODUCT_PACKAGES += \
-    Trebuchet \
     Launcher3 \
     Trebuchet \
     DSPManager \
