@@ -130,6 +130,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     VoicePlus \
     Basic \
+    Trebuchet \
     libemoji
 
 # Custom CM packages
