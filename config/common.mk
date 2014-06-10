@@ -134,7 +134,6 @@ PRODUCT_PACKAGES += \
 
 # Custom CM packages
 PRODUCT_PACKAGES += \
-    Launcher3 \
     Trebuchet \
     DSPManager \
     libcyanogen-dsp \
