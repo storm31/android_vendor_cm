@@ -145,8 +145,7 @@ PRODUCT_PACKAGES += \
     CMUpdater \
     CMFota \
     CMAccount \
-    CMHome \
-    OmniSwitch
+    CMHome
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
