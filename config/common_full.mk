@@ -11,18 +11,18 @@ include vendor/cm/config/cm_audio.mk
 PRODUCT_PACKAGE_OVERLAYS += vendor/cm/overlay/dictionaries
 
 # Optional CM packages
-PRODUCT_PACKAGES += \
-    Galaxy4 \
-    HoloSpiralWallpaper \
-    LiveWallpapers \
-    LiveWallpapersPicker \
-    MagicSmokeWallpapers \
-    NoiseField \
-    PhaseBeam \
-    VisualizationWallpapers \
-    PhotoTable \
-    SoundRecorder \
-    PhotoPhase
+#PRODUCT_PACKAGES += \
+#    Galaxy4 \
+#    HoloSpiralWallpaper \
+#    LiveWallpapers \
+#    LiveWallpapersPicker \
+#    MagicSmokeWallpapers \
+#    NoiseField \
+#    PhaseBeam \
+#    VisualizationWallpapers \
+#    PhotoTable \
+#    SoundRecorder \
+#    PhotoPhase
 
 PRODUCT_PACKAGES += \
     VideoEditor \
