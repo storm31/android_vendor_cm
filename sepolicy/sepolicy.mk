@@ -13,11 +13,15 @@ BOARD_SEPOLICY_UNION += \
     property_contexts \
     seapp_contexts \
     service_contexts \
-    auditd.te \
     adbd.te \
+    app.te \
+    auditd.te \
+    bootanim.te \
+    drmserver.te \
     healthd.te \
     hostapd.te \
     installd.te \
+    mediaserver.te \
     netd.te \
     property.te \
     recovery.te \
@@ -26,6 +30,10 @@ BOARD_SEPOLICY_UNION += \
     sysinit.te \
     system.te \
     system_app.te \
+    system_server.te \
     ueventd.te \
+    uncrypt.te \
+    userinit.te \
     vold.te \
+    zygote.te \
     mac_permissions.xml
